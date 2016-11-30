@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: RestProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mohkhan
+Implementation-Vendor-Id: org.test
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/RestProject/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
